@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034880154706",
+    "project_id": "mxpertz-bf306",
+    "storage_bucket": "mxpertz-bf306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034880154706:android:1af0b8b5331f21d322738b",
+        "android_client_info": {
+          "package_name": "com.example.mxpertx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8CUe5WQPCQ3GVUaBWkCHkX_yu2FyQ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
